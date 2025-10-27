@@ -11,7 +11,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 ![Open Source](https://img.shields.io/badge/OS-Contributor-217346?style=for-the-badge&labelColor=00C4CC)
 ![Repositories](https://img.shields.io/badge/Repositories-5-F29111?style=for-the-badge&labelColor=D83B01)
 
-<!-- LinkedIn profile badge --> https://www.linkedin.com/in/dristi-handique/
+<!-- LinkedIn profile badge -->
 <!-- teal -->
 <a href="https://www.linkedin.com/in/dristi-handique/"> 
   <img src="https://img.shields.io/badge/LinkedIn-Dristi%20Handique-008080?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
@@ -196,4 +196,5 @@ and delivering data-driven solutions that create real business impact.
 
 <!-- <img width="300" alt="GitCover" src="Gitcolor.png" /> -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->                 
+
 
