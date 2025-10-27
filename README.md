@@ -34,7 +34,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <!-- 👤 About Me -->
 ## 👤 About Me
 
-<img align="right" alt="Girl working on computer" width="400" src="Violet Girl.gif" />
+<img align="right" alt="Girl working on computer" width="300" src="Violet Girl.gif" />
 
 I’m passionate about turning raw data into meaningful business insights.
 With strong expertise in Microsoft 365 and growing proficiency in modern data tools like
@@ -47,7 +47,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- 🚀 My Mission  -->
 ## 🚀 My Mission 
 
-<!-- <img align="right" alt="girl working on computer" width="400" src="BlackG.gif" /> -->
+<!-- <img align="right" alt="girl working on computer" width="300" src="BlackG.gif" /> -->
 
 - To simplify complex data for easy interpretation.
 - To fulfill my dream of becoming a proficient Data Analyst.
@@ -196,5 +196,6 @@ and delivering data-driven solutions that create real business impact.
 
 <!-- <img width="300" alt="GitCover" src="Gitcolor.png" /> -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->                 
+
 
 
