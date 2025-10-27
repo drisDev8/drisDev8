@@ -1,4 +1,4 @@
-# Hi, i'm_dristi
+# Hi, I'm Dristi
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
 
 <!-- Name letter icon -->
@@ -196,3 +196,4 @@ and delivering data-driven solutions that create real business impact.
 
 <!-- <img width="300" alt="GitCover" src="Gitcolor.png" /> -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->                 
+
