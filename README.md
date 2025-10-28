@@ -2,7 +2,7 @@
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
 
 <!-- Name letter icon -->
-<img align="right" alt="R" width="50" src="D.svg" />
+<img align="right" alt="R" width="80" src="D.svg" />
 
 <!-- Header Section -->
 [![Profile Views](https://komarev.com/ghpvc/?username=drisDev8&color=blueviolet)](https://github.com/drisDev8)
@@ -195,6 +195,7 @@ and delivering data-driven solutions that create real business impact.
 
 <!-- <img width="300" alt="GitCover" src="Gitcolor.png" /> -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->                 
+
 
 
 
