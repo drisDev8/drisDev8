@@ -60,7 +60,7 @@ and delivering data-driven solutions that create real business impact.
 <!-- 💻 My Skills -->
 ## 💻 My Skills
 
-<img alt="Girl working on computer" src="Green Girl.gif"/> 
+<img alt="Girl working on computer" width="550" src="Green Girl.gif"/> 
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-0078D7?style=for-the-badge&logo=microsoft-word&logoColor=white)
@@ -196,6 +196,7 @@ and delivering data-driven solutions that create real business impact.
 
 <!-- <img width="300" alt="GitCover" src="Gitcolor.png" /> -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->                 
+
 
 
 
