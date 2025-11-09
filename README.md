@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Dristi
-👩‍💻 Electronic and Communication Engineer sharing about my learnings in tech and studied in Indian Institute of Technology, Guwahati, India <br>
-🧑‍🏫 Experienced in Technical Consultancy under Intellectual Property Industry <br>
+👩‍💻 Electronic and Communication Engineer <br>
+🧑‍🏫 Sharing about my learnings in tech and studied in Indian Institute of Technology, Guwahati, India <br>
+🌷 Experienced in Technical Consultancy under Intellectual Property Industry <br>
 💭 Currently learning about Data Analytics and Automation 
 
 
@@ -159,6 +160,7 @@ and delivering data-driven solutions that create real business impact.
 
 <!-- <img width="300" alt="GitCover" src="Gitcolor.png" /> -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->                 
+
 
 
 
