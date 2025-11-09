@@ -1,14 +1,10 @@
 # Hi, I'm Dristi
 Data enthusiast exploring real-world solutions through Excel automation & BI tools.
 
-<!-- Name letter icon -->
-<img align="right" alt="R" width="80" src="D.svg" />
 
 <!-- Header Section -->
 [![Profile Views](https://komarev.com/ghpvc/?username=drisDev8&color=blueviolet)](https://github.com/drisDev8)
-[![Followers](https://img.shields.io/github/followers/drisDev8?label=Followers&style=social)](https://github.com/drisDev8?tab=followers)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=drisDev8.drisDev8)
-![Open Source](https://img.shields.io/badge/OS-Contributor-217346?style=for-the-badge&labelColor=00C4CC)
 ![Repositories](https://img.shields.io/badge/Repositories-5-F29111?style=for-the-badge&labelColor=D83B01)
 
 <!-- LinkedIn profile badge -->
@@ -44,21 +40,8 @@ and delivering data-driven solutions that create real business impact.
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-<!-- 🚀 My Mission  -->
-## 🚀 My Mission 
-
-<!-- <img align="right" alt="girl working on computer" width="450" src="BlackG.gif" /> -->
-
-- To simplify complex data for easy interpretation.
-- To fulfill my dream of becoming a proficient Data Analyst.
-- To create professional and automated reporting systems.
-- To continuously learn and apply new data technologies.
-- To contribute to data-driven decision making in organizations.
-
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
-<!-- 💻 My Skills -->
-## 💻 My Skills
+<!-- 💻 Tech Stack -->
+## 💻 Tech Stack
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-0078D7?style=for-the-badge&logo=microsoft-word&logoColor=white)
@@ -72,8 +55,6 @@ and delivering data-driven solutions that create real business impact.
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white)
 ![Business Insights](https://img.shields.io/badge/Business%20Insights-2F4F4F?style=for-the-badge&logo=bar-chart&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajeevgit8055hub)
 ![Data Cleaning & Transformation](https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-4682B4?style=for-the-badge&logo=powerbi&logoColor=white)
 
 <!-- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) -->
@@ -157,7 +138,6 @@ and delivering data-driven solutions that create real business impact.
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drisDev8&show_icons=true&theme=midnight-purple)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drisDev8&layout=compact&theme=midnight-purple)
 
 <!--## 📊 GitHub Streak -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=drisDev8&theme=dark) -->
@@ -193,6 +173,7 @@ and delivering data-driven solutions that create real business impact.
 
 <!-- <img width="300" alt="GitCover" src="Gitcolor.png" /> -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->                 
+
 
 
 
