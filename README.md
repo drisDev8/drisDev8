@@ -1,11 +1,12 @@
-# Hi, I'm Dristi
-Data enthusiast exploring real-world solutions through Excel automation & BI tools.
+# 👋 Hi, I'm Dristi
+👩‍💻 Electronic and Communication Engineer sharing about my learnings in tech and studied in Indian Institute of Technology, Guwahati, India
+🧑‍🏫 Experienced in Technical Consultancy under Intellectual Property Industry
+💭 Currently learning about Data Analytics and Automation
 
 
 <!-- Header Section -->
 [![Profile Views](https://komarev.com/ghpvc/?username=drisDev8&color=blueviolet)](https://github.com/drisDev8)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=drisDev8.drisDev8)
-![Repositories](https://img.shields.io/badge/Repositories-5-F29111?style=for-the-badge&labelColor=D83B01)
 
 <!-- LinkedIn profile badge -->
 <!-- teal -->
@@ -30,7 +31,7 @@ Data enthusiast exploring real-world solutions through Excel automation & BI too
 <!-- 👤 About Me -->
 ## 👤 About Me
 
-<img align="right" alt="Girl working on computer" width="450" src="Violet Girl.gif" />
+<img align="right" alt="Girl working on computer" width="400" src="Violet Girl.gif" />
 
 I’m passionate about turning raw data into meaningful business insights.
 With strong expertise in Microsoft 365 and growing proficiency in modern data tools like
@@ -116,22 +117,7 @@ and delivering data-driven solutions that create real business impact.
 </p>
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-   
-<!-- ## 📬 Connect with Me -->
-## 📬 Connect with Me
 
-<!-- <img align="right" alt="Technology" src="NeonGlobe.jpg" /> -->
-
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+X,+LinkedIn,+GitHub,+Email+or+my+Website+🌐;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
-
-<!-- [![X](https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rajeevtiwariRT) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dristi-handique/)
-[![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drisDev8)
-[![Email](https://img.shields.io/badge/Email-B22222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dristi1249@gmail.com)
-<!-- [![Website](https://img.shields.io/badge/Website-008080?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/) -->
-
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- ## 📊 GitHub Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
@@ -173,6 +159,7 @@ and delivering data-driven solutions that create real business impact.
 
 <!-- <img width="300" alt="GitCover" src="Gitcolor.png" /> -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->                 
+
 
 
 
